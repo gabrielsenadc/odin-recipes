@@ -3,7 +3,8 @@ body{
     margin-right: auto;
     background-color: #9F8978;
     text-align: center;
-    width: 80%;
+    width: 60%;
+    border: 1px solid;
 }
 
 * {
@@ -17,26 +18,26 @@ body{
     
 }
 
-.grande {
+h1 {
     font-size: 60px;
 }
 
+h2 {
+    font-size: 45px;
+}
+
+h3 {
+    font-size: 25px;
+}
 .excessao{
     text-align: left;
 }
 
 img.icones { 
-    vertical-align: bottom; 
-    height: 70px;
-    width: 70px;
+    vertical-align: middle; 
+    height: 45px;
+    width: 45px;
 }
 
-img.botao {
-    height: 100px;
-    width: auto;
-    vertical-align: middle;
-}
 
-button {
-    background-color:grey;
-}
+
