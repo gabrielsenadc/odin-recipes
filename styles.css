@@ -8,7 +8,7 @@ body{
 
 * {
     font-family: Geneva, Verdana, sans-serif;
-    font-size: 20px;
+    font-size: 30px;
 }
 
 .imagem {
@@ -18,7 +18,7 @@ body{
 }
 
 .grande {
-    font-size: 60px;
+    font-size: 90px;
 }
 
 .excessao{
@@ -27,12 +27,12 @@ body{
 
 img.icones { 
     vertical-align: bottom; 
-    height: 70px;
-    width: 70px;
+    height: 115px;
+    width: auto;
 }
 
 img.botao {
-    height: 100px;
+    height: 150px;
     width: auto;
     vertical-align: middle;
 }
