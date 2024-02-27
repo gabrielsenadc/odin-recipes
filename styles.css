@@ -1,0 +1,42 @@
+body{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #9F8978;
+    text-align: center;
+    width: 45%;
+    border: 1px solid;
+}
+
+* {
+    font-family: Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+
+.imagem {
+    width: 530px;
+    height: auto;
+    
+}
+
+h1 {
+    font-size: 60px;
+}
+
+h2 {
+    font-size: 45px;
+}
+
+h3 {
+    font-size: 25px;
+}
+.excessao{
+    text-align: left;
+}
+
+img.icones { 
+    vertical-align: middle; 
+    height: 45px;
+    width: 45px;
+}
+
+
