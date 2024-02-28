@@ -11,18 +11,14 @@ body{
     font-size: 30px;
 }
 
-.imagem {
-    width: 530px;
-    height: auto;
-    
+.seta {
+    height: 30px;
+    width: auto;
+    vertical-align: middle;
 }
 
 .grande {
     font-size: 90px;
-}
-
-.excessao{
-    text-align: left;
 }
 
 img.icones { 
