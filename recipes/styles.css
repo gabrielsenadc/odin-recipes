@@ -13,7 +13,7 @@ body{
 }
 
 .imagem {
-    width: 90%;
+    width: 80%;
     height: auto;
     
 }
@@ -39,5 +39,6 @@ img.icones {
     width: 45px;
 }
 
-
-
+h3.excessao {
+    margin-inline-start: 20px;
+}

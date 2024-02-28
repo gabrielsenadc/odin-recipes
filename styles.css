@@ -3,7 +3,7 @@ body{
     margin-right: auto;
     background-color: #9F8978;
     text-align: center;
-    width: 80%;
+    width: 100%;
 }
 
 * {
@@ -19,6 +19,12 @@ body{
 
 .grande {
     font-size: 90px;
+    padding-bottom: 20px;
+    border-bottom: 10px solid #48250F;
+    padding-top: 20px;
+    border-top: 10px solid #48250F;
+    margin-top: 40px;
+    margin-bottom: 80px;
 }
 
 img.icones { 
@@ -35,4 +41,9 @@ img.botao {
 
 button {
     background-color:grey;
+    padding: 0.75%;
+}
+
+button:hover{
+    background-color: #2D2C2F;
 }
